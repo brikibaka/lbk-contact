@@ -4,7 +4,7 @@
  * @version 1.0.0
  */
 /*
-Plugin Name: LBK Fixed Contact V1
+Plugin Name: LBK Fixed Contact
 Description: Form liên hệ chạy dọc theo web
 Plugin URI:
 Author: Briki
